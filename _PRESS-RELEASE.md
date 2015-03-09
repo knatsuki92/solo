@@ -20,7 +20,7 @@ Once the project moves into development, the press release can be used as a touc
   >  Send secrets to your friends on social media platforms.
 
 ## Sub-Heading ##
-  >  This product is for any social media users who would like to spread secrets!
+  >  This product is for any social media users who would like to spread secrets and monetize in the process!
 
 ## Summary ##
   > Send secrets on twitter, facebook, <YOUR favorite social media>, that only you and those who you choose can see. Grant access to only friends or those who click an ad of your choosing.
@@ -35,7 +35,7 @@ Once the project moves into development, the press release can be used as a touc
   > At my company, my least favorite employee is http://www.TopSecret.com/#ed1e3f.
 
 ## How to Get Started ##
-  > Come up with a secret, come to www.TopSecret.com, and then codify!
+  > Come up with a secret, visit www.TopSecret.com, and then codify!
 
 ## Customer Quote ##
   > "TopSecret changed the way I engage with my twitter followers" - Justin Bieber
