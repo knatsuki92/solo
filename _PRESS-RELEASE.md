@@ -17,28 +17,28 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  >  Send secrets to your friends on social media platforms.
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  >  This product is for any social media users who would like to spread secrets!
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  > Send secrets on twitter, facebook, <YOUR favorite social media>, that only you and those who you choose can see. Grant access to only friends or those who click an ad of your choosing.
 
 ## Problem ##
-  > Describe the problem your product solves.
+  > Every message/tweet/post sent on social media is viewable to the public. Have you ever wanted to communicate a secret on these platform that only you and those who you choose can see?
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+  > TopSecret allows you to do so by codifying your texts into link that only your friends can decrypt.
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+  > At my company, my least favorite employee is http://www.TopSecret.com/#ed1e3f.
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+  > Come up with a secret, come to www.TopSecret.com, and then codify!
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  > "TopSecret changed the way I engage with my twitter followers" - Justin Bieber
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+  > www.TopSecret.com
